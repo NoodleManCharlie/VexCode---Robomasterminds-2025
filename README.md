@@ -35,3 +35,8 @@ but I feel as though that is no different then using if-statements. Of course, I
 Overall, I'm not sure the camp was designed for students to be victorious. Its designed for learning, and its only over the course of two weeks. That also 
 seemed to be the mindeset of the person who runs the program. However, I came so incredibly, deliciously close, it would seem, to beating the Navigation
 challenge.
+
+I may or may not return to program some of these theorized improvements, but know if I do, I am not able to test for bugs due to having no access to a VEX
+Clawbot. So think of the modifications as a semi-psuedo, semi-c++ code.
+
+Anyway, I hope you found this code informative, useful, inspiring, or of some other good.
